@@ -1,1 +1,1 @@
-# http://hotgeart.github.io/url-encoder
+# https://hotgeart.github.io/url-encoder
